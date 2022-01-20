@@ -1,0 +1,95 @@
+h1{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+
+div.crveno {
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   color: red;
+   font-size: 18px;
+}
+    
+h2{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+div.zeleno {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    font-size: 20px;
+}
+
+h3{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: white;
+}
+div.plavo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 18px;
+}
+
+h4{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+div.rozo {
+   text-align: left;
+   font-family: 'Times New Roman', Times, serif;
+   color: pink;
+   font-size: 22px;
+}
+h5{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+div.orange{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: orange;
+}
+h6{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+div.blue {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: orange;
+} 
+h7{
+    font-weight:bolder;
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 47px;
+    color: white;
+}
+div.smede{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: brown;
+}
